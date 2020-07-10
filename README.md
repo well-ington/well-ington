@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is **Celso Wellington**, **TypeScript Developer**, and my current task is to build my portfolio with the kind of technology I want to work 😁 
-Currently building an *iFood* clone 🍟 using **TypeScript** with **React Native** and **Android Studio**. After the clone is completed, I'll create an alternate version with a whole new experience 😀
+Currently building an *iFood* clone 🍟 using **TypeScript** with **React Native** and **Android Studio**. After the clone is completed, I'll create an alternative version with a whole new experience 😀
 **React** is present in my projects with **TypeScript** since **september/19** 🚀 I've done some personal projects to evolve my skills regarding web-scrapping, data filtering, API interface and data visualization with geolocation using **Leaflet**.
 
-My current learning React Native and mobile development, alongside with code architeture and unit testing (gaining XP). I'm also trying to improve my SOLID principles to diminish the code entropy problem.
+I'm currently studying React Native and mobile development, alongside with code architeture and unit testing (gaining XP). I'm also trying to improve my SOLID principles to diminish the code entropy problems and improve code quality.
 
 ### About me
 I do love reading books and articles 📰, strategic and competitive games 🎮, cook/bake awesome food 🥐, music 🎶 and international cuisine 🍣.
