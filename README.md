@@ -1,7 +1,7 @@
 # Celso Wellington 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contrateme/)](https://www.linkedin.com/in/contrateme/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11518214/celso-wellington)](https://stackoverflow.com/users/11518214/celso-wellington)
-![techs](https://img.shields.io/static/v1?label=I%20code%20with&message=TypeScript&color=indigo)
+![techs](https://img.shields.io/static/v1?label=I%20code%20with&message=TypeScript&color=slateblue)
 ![role](https://img.shields.io/static/v1?label=Role&message=Front-end%20developer&color=slateblue)
 ![open to work](https://img.shields.io/static/v1?label=Status&message=Open%20to%20Work&color=limegreen)
 
