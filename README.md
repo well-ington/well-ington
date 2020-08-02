@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-My name is **Celso Wellington** and I'm a self taught and feedback-driven web developer who loves to create beautiful and high peformance UI components 
+My name is **Celso Wellington** and I'm a self taught and feedback-driven web developer who loves to create beautiful and high peformance UI components 🚀
 
 
 ### Techs I do love & use
