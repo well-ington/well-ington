@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-My name is **Celso Wellington** and I'm a self taught and feedback-driven web developer who loves to create beautiful and high peformance UI components 🚀
+My name is **Celso Wellington** and I'm a self taught software engineer 🚀
 
 
 ### Techs I do love & use
@@ -19,9 +19,10 @@ My name is **Celso Wellington** and I'm a self taught and feedback-driven web de
   <li>Styled Components</li>
   <li>Jest</li>
   <li>Enzyme</li>
-  <li>React Native¹</li>
-  <li>React Native Router Flux¹</li>
-  <li>React Native Vector Icons</li>
+  <li>Jasonelle</li>
+  <li>React Native</li>
+  <li>React Native Router Flux</li>
+  <li>React Native Vector Icons</li>  
 </ul>
 
 ¹: Currently learning.
@@ -36,7 +37,6 @@ My name is **Celso Wellington** and I'm a self taught and feedback-driven web de
   <li>🤖 mechatronics and mechanics technician</li>
   <li>:man_technologist: Open Source enthusiast</li>
 </ul>
-
 
 
 <!--
