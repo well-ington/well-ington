@@ -7,28 +7,9 @@
 
 ### Hi there 👋
 
-I'm a curious person who loves to create cool stuff using web and mobile technologies 😁 
+I'm a front-end software developer who loves to create awesome products with seamless user experience using screen. On my applications you'll find a bunch of transitions, animations and instant form feedback, you won't fint the 'chunkyness' you would experience in other apps. I love the open source community and I'm trying to get back on track by contributing more.
 
-
-In the client-side, I work with: vanilla JavaScript, jQuery, Preact, Leaflet, Web Workers, Web Storage, Bubble.io, PDFs (generation and data extraction), Text editors (parsing bbcode/html)
-
-For the server-side, I work with: Node serverless
-
-I've already implemented the services:
-Twilio API, HERE routing API
-
-As for mobile development, I work with: Jasonelle and Java
-
-
-For my personal projects, I love to use in the client-side:
-React, TypeScript, Jest, React Testing Library, webpack, babel, Redux, SCSS and even ThreeJS
-
-For the server-side:
-NodeJS, express, TypeScript
-
-Mobile development:
-React Native (android)
-
+The techonologies I love to work with: TypeScript, React Native, Redux, ReactJS, React Navigation | React Router, Android and iOS, mobile development, plop (for code scaffolding | development automation), Native Base and Material UI
 
 ## About me
 
