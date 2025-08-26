@@ -29,6 +29,7 @@ Check out my open source contributions by scrolling down this page 😊
   <li>Cooking 🥐</li>
   <li>Culture and Natural sciences 🔭</li>
   <li>Gaming 🎮</li>  
+  <li>Ancient History</li>
 </ul>
 
 
